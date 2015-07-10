@@ -1,6 +1,7 @@
 <manifest>
 
   <!-- Device Trees -->
+  <project name="Peregrine-AOSP/android_device_motorola_peregrine" path="device/motorola/peregrine" remote="github" revision="lp" />
   <project name="Alberto97/android_device_motorola_falcon" path="device/motorola/falcon" remote="github" revision="aosp-5.1" />
   <project name="titan-aosp/android_device_motorola_thea" path="device/motorola/thea" remote="github" revision="android-5.1.1_r1" />
   <project name="titan-aosp/android_device_motorola_titan" path="device/motorola/titan" remote="github" revision="cm-12.1" />
